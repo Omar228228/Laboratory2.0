@@ -24,5 +24,4 @@ int main()
 	cout << "z2 = " << z2 << endl;
 	cin.get();
 	return 0;
-} //It`s test commit.
-//2nd commit change. Hello there.
+}
