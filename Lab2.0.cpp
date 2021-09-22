@@ -18,6 +18,7 @@ int main()
 	cout << "n = "; cin >> n;
 	z1 = (sqrt(((3.0 * m + 2.0)*(3.0 * m + 2.0) - (24.0 * m)))/((3.0 * sqrt(m))-((2.0)/(sqrt(m)))));	
 	z2 = sqrt(m);
+	//Robin hood is hero.(3rd commit on branch master)
 	cout << endl;
 	cout << "z1 = " << z1 << endl;
 	cout << "z2 = " << z2 << endl;
